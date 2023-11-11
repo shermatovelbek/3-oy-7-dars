@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header__container logo{
+    display: flex;
+align-items: center;
+gap: 16px;
+}
+.main ul{
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    gap:25px ;
+
+}
+
+.main ul li{
+    text-decoration: none;
+}
+ul{list-style: none;}
